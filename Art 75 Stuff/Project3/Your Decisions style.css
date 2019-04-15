@@ -19,11 +19,11 @@ a {
 
 }
 
-span.duty {
+span.Help {
 	color: lightblue;
 }
 
-span.fight {
+span.NoHelp {
 	color: red;
 }
 
