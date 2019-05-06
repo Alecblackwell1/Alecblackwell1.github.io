@@ -5,6 +5,11 @@ header {
 
 	}
 
+h1 {
+	text-align: center;
+	color: white;
+}
+
 p {
 	font-size: 24px;
 	color: white;
